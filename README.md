@@ -29,7 +29,7 @@ Generative AI & Agents: Large Language Models (LLMs), Retrieval-Augmented Genera
 
 ### **Achievements**
 
-**🥈 2nd Place | IndiaAI Impact Gen-AI Hackathon (2025) –** Developed a 651M-parameter crop classification model using a Geospatial Foundation Model on 12-band multi-spectral satellite imagery.
+**🥈 2nd Place(Maverick) | IndiaAI Impact Gen-AI Hackathon (2025) –** Developed a 651M-parameter crop classification model using a Geospatial Foundation Model on 12-band multi-spectral satellite imagery.
 
 Result is available here: "https://cni.iisc.ac.in/hackathons/gen-AI-2025-results/
 
@@ -37,6 +37,6 @@ Result is available here: "https://cni.iisc.ac.in/hackathons/gen-AI-2025-results
 
 Certificate of the result is available here: "https://www.linkedin.com/posts/soumabrata-bhowmik-b2a0b5372_4th-place-comsys-hackathon-5-2025-jadavpur-activity-7442236603353427968-AbAg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERz6t4B0cYxNmD5Uw3IxtM6yRzvtMcfrjs
 
-**🏅 4th Place | GlacierHack Hackathon (2025) –** Engineered a multispectral satellite image segmentation model for complex Himalayan terrain.
+**🏅 4th Place(Maverick) | GlacierHack Hackathon (2025) –** Engineered a multispectral satellite image segmentation model for complex Himalayan terrain.
 
 Result is available here: "https://www.glacier-hack.in/#winners-list
