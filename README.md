@@ -2,7 +2,7 @@
 
 **soumabratabhowmik**
 
-I am a 3rd-year B.Tech CSBS student passionate about designing robust, scalable, and intelligent systems. My work focuses on building AI architectures that can handle complex, multimodal data while remaining resilient to real-world challenges like distribution shifts, noise, and partial observability. From CNN-Transformer fusions to Agentic RAG pipelines, I love translating theoretical ML concepts into highly efficient, deployable solutions.
+I am a 3rd-year B.Tech CSBS student passionate about designing robust, scalable, and intelligent systems. My work focuses on building AI architectures that can handle complex, multimodal data while remaining resilient to real-world challenges like distribution shifts, noise, and partial observability. From CNN-Transformer fusions to Agentic RAG pipelines, my focus is on translating theoretical ML concepts into highly efficient, deployable solutions.
 
 
 ### **Core Focus & Research Interests**
