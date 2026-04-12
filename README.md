@@ -7,11 +7,11 @@ I am a 3rd-year B.Tech CSBS student passionate about designing robust, scalable,
 
 ### **Core Focus & Research Interests**
 
-Deep Learning Architectures: CNN-Transformer hybrid models, Multi-Modal Fusion, and Representation Learning.
+Deep Learning Architectures: CNN-Transformer hybrid models, GNN, Multi-Modal Fusion, and Representation Learning.
 
 Computer Vision & Geospatial AI: Spatio-temporal modeling, multispectral satellite image segmentation, and open-set recognition.
 
-Trustworthy & Applied AI: Deepfake audio detection, adaptive inference, and building models optimized for low-latency, resource-constrained environments.
+Trustworthy & Applied AI: Deepfake audio detection, diabetic retinopathy detection, adaptive inference, and building models optimized for low-latency, resource-constrained environments.
 
 Generative AI & Agents: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI systems.
 
