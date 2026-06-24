@@ -2,12 +2,12 @@
 
 **soumabratabhowmik**
 
-I am a 3rd-year B.Tech CSBS student passionate about designing robust, scalable, and intelligent systems. My work focuses on building AI architectures that can handle complex, multimodal data while remaining resilient to real-world challenges like distribution shifts, noise, and partial observability. From CNN-Transformer fusions to Agentic RAG pipelines, my focus is on translating theoretical ML concepts into highly efficient, deployable solutions.
+I am a 4th-year B.Tech CSBS student passionate about designing robust, scalable, and intelligent systems. My work focuses on building AI architectures that can handle complex, multimodal data while remaining resilient to real-world challenges like distribution shifts, noise, and partial observability. From CNN-Transformer fusions to Agentic RAG pipelines, my focus is on translating theoretical ML concepts into highly efficient, deployable solutions.
 
 
 ### **Core Focus & Research Interests**
 
-**Deep Learning Architectures:** CNN-Transformer hybrid models, GNN, Multi-Modal Fusion, and Representation Learning.
+**Deep Learning Architectures:** CNN-Transformer hybrid models, GNN, Reinforcement Learning, Multi-Modal Fusion and Representation Learning.
 
 **Computer Vision & Geospatial AI:** Spatio-temporal modeling, multispectral satellite image segmentation, and open-set recognition.
 
