@@ -9,7 +9,7 @@ I am a 4th-year B.Tech CSBS student passionate about designing robust, scalable,
 
 **Deep Learning Architectures:** CNN-Transformer hybrid models, GNN, Reinforcement Learning, Multi-Modal Fusion and Representation Learning.
 
-**Computer Vision & Geospatial AI:** Spatio-temporal modeling, multispectral satellite image segmentation, and open-set recognition, ADAS.
+**Computer Vision & Geospatial AI:** Spatio-temporal modeling, multispectral satellite image segmentation, open-set recognition, and ADAS.
 
 **Trustworthy & Applied AI:** Deepfake audio detection, diabetic retinopathy detection, adaptive inference, and building models optimized for low-latency, resource-constrained environments.
 
